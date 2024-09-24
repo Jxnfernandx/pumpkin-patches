@@ -1,0 +1,48 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+body {
+    background-color: #ffc3a6;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border: 3px solid #ff521b;
+    border-radius: 15px;
+    background-color: #ffffff;
+    width: 35rem;
+    height: 25rem;
+}
+
+.card img {
+    object-fit: fill;
+    width: 35rem;
+    height: 15rem;
+    border-radius: 12px 12px 0 0;
+}
+
+
+.cardList {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+}
+
+button {
+    background-color: #ff521b;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+button:hover {{
+    background-color: #eaab94;
+}}
