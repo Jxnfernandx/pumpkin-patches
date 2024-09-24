@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![gif](https://imgur.com/gallery/web-102-community-board-7l67CmV)
+[gif](https://imgur.com/gallery/web-102-community-board-7l67CmV)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
